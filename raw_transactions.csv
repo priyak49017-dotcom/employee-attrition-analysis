@@ -1,0 +1,11 @@
+emp_id,department,education,gender,experience,salary,performance_rating,attrition,joining_date
+E001,HR,Bachelor,Female,2,25000,3,Yes,2021-01-15
+E002,IT,Master,Male,5,60000,4,No,2019-06-20
+E003,Finance,Bachelor,Male,3,40000,2,Yes,2020-08-10
+E004,IT,Master,Female,7,75000,5,No,2018-03-12
+E005,HR,Bachelor,Female,,30000,3,Yes,2022-02-18
+E006,Finance,Master,Male,6,,4,No,2019-11-25
+E007,IT,Bachelor,Male,1,22000,2,Yes,2023-01-05
+E008,HR,Master,Female,8,80000,5,No,2017-07-30
+E009,Finance,Bachelor,Female,4,45000,3,No,2020-09-14
+E010,IT,Master,Male,,50000,4,Yes,2021-12-01
